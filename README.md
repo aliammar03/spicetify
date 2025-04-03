@@ -28,7 +28,6 @@ Upcoming Song by fl3xm3ist3r
 HomeWhereYouBelong by yodaluca23]
 Seek on scroll by SunsetTechuila
 
-
 ## Snippets
 
 Smooth Playlist Reveal Gradient
