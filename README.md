@@ -2,15 +2,20 @@
 
 ## Installed Extentions
 
+Auto Skip Video by spicetify
 Loopy Loop by spicetify
 Shuffle Plus by spicetify
 Trash Bin by spicetify
-Auto Skip Video by spicetify
 Song Stats by CharlieS1103
 GoToSong by huhridge
+Display full album date by huhridge
 CatJam Synced by BlafKing
 Immersive View by ohitstom
 Quick Queue  by ohitstom
+NPV 
+Toggle dj oh
+Find Duplicates
+Dynamic Lights
 Queue Time by Theblockbuster1
 Cover Ambieance by Theblockbuster1
 Convert Japanese by Pithaya
@@ -36,7 +41,7 @@ Better Lyrics Style
 Modern Scrollbar
 Oneko
 Centered Lyrics
-
+Smooth Progress bar
 
 
 ## Themes
